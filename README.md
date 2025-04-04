@@ -45,10 +45,12 @@ The project provides Sales and Finance Reports to help businesses analyze their 
 ## Project Structure
 ```bash
 Business-Performance-Reports/
-│── Sales_and_Marketing_Reports/   # Sales dashboards & reports
-│── Financial_Reports/             # Financial dashboards & reports
-│── README.md                      # Project documentation
-│── LICENSE                        # License file
+│── Financial_Reports/                # Financial PDF reports
+│── Sales_and_Marketing_Reports/      # Sales PDF reports
+│── images/                           # GIFs
+│── Business_Performance_Report.xlsx  # Main Excel file
+│── LICENSE                           # License file
+│── README.md                         # Project documentation
 ```
 
 
