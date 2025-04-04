@@ -37,6 +37,30 @@ The project provides Sales and Finance Reports to help businesses analyze their 
 - **Strategic Financial Insights –** Align financial goals with business growth.
 
 
+## Technical Skills
+- Proficient in **ETL methodology** (Extract, Transform, Load).
+
+- Expertise in **Power Query**, including generating date tables.
+
+- Ability to derive **fiscal months and quarters** for reporting.
+
+- Establishing **data model relationships** using Power Pivot.
+
+- Integrating **supplementary data** into existing data models.
+
+- Creating **calculated columns** with DAX for enhanced analysis.
+
+## Soft Skills
+- Strong analytical skills for interpreting **Sales & Finance Reports**.
+
+- Designing **user-centric reports** with a focus on clarity and usability.
+
+- Optimizing **report performance** through data fine-tuning.
+
+- Developing a **structured approach** to report planning and execution.
+
+
+
 ## How to Use
 
 ### **Download the Excel reports from the repository and explore the interactive dashboards.**
